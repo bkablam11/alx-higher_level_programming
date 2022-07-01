@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-if __name__== "__name__":
+if __name__ == "__main__":
     from add_0 import add
     a = 1
     b = 2
-    print(f" the result of the addition {a} + {b} = {add(a,b)}/n")
+    print("{} + {} = {}".format(a, b, add(a, b)))
