@@ -6,7 +6,9 @@
 - behavior of responses when buttons are pressed or with data entry on forms; with
 dynamic styling; with animation, etc. 
 - JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
-
+- === test value and type and == test value
+- I think it is a weak type because you don't have you specify the type of data the variable should hold.
+ex: const num = or int num = 2
 # Functions js
 
 - querySelector() to grab a reference to your heading, and then store it in a variable called myHeading
