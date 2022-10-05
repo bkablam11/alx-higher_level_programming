@@ -2,6 +2,5 @@
 // Write a function that increments and calls a function.
 
 exports.addMeMaybe = function (number, theFunction) {
-    theFunction.call(this, number+1);
-
-}
+  theFunction.call(this, number + 1);
+};
