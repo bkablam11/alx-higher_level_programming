@@ -11,6 +11,7 @@ dynamic styling; with animation, etc.
 ex: const num = or int num = 2
 - function : arg and value. we can use return in fucntion. if we don't return everthing we return undefiended
 - let is local
+
 - exports and require
 
 # Functions js
